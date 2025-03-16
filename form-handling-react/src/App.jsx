@@ -1,5 +1,5 @@
-import FormikForm from "./Components/formikForm";
-import RegistrationForm from "./Components/RegistrationForm"; 
+import FormikForm from "./components/formikForm";
+import RegistrationForm from "./components/RegistrationForm"; 
 import * as Yup from "yup";
 import './App.css'
 
